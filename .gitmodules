@@ -1,3 +1,15 @@
 [submodule "软工专业课/软件过程管理"]
 	path = 软工专业课/软件过程管理
 	url = https://github.com/KeloShen/XDU-SPM.git
+[submodule "软工专业课/软件体系结构"]
+	path = 软工专业课/软件体系结构
+	url = https://github.com/KeloShen/XDU-SE-SA.git
+[submodule "云计算方向课程/信息检索"]
+	path = 云计算方向课程/信息检索
+	url = https://github.com/KeloShen/XDU-InformationRetrieval.git
+[submodule "云计算方向课程/云计算eBPF"]
+	path = 云计算方向课程/云计算eBPF
+	url = https://github.com/KeloShen/XDU---eBPF.git
+[submodule "云计算方向课程/机器学习与数据挖掘"]
+	path = 云计算方向课程/机器学习与数据挖掘
+	url = https://github.com/KeloShen/XDU-MachineLearning.git
