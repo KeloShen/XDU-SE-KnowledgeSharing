@@ -13,3 +13,6 @@
 [submodule "云计算方向课程/机器学习与数据挖掘"]
 	path = 云计算方向课程/机器学习与数据挖掘
 	url = https://github.com/KeloShen/XDU-MachineLearning.git
+[submodule "软工专业课/面向对象程序设计"]
+	path = 软工专业课/面向对象程序设计
+	url = https://github.com/KeloShen/OOP-OnlineShopping.git
