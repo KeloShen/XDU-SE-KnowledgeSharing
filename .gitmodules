@@ -16,3 +16,6 @@
 [submodule "软工专业课/面向对象程序设计"]
 	path = 软工专业课/面向对象程序设计
 	url = https://github.com/KeloShen/OOP-OnlineShopping.git
+[submodule "软工专业课/软件工程概论"]
+	path = 软工专业课/软件工程概论
+	url = https://github.com/KeloShen/XDU-SE-Introduction.git
